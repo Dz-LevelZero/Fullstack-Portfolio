@@ -24,7 +24,7 @@ const Header = () => {
       >
         <div className="app__header-badge">
           <div className="badge-cmp app__flex">
-            <span>👋</span>
+            <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt='wave'></img>
             <p className='p-text'>Hello, I am </p>
             <h1 className='head-text'>Micael</h1>
           </div>
