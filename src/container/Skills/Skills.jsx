@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import ReactTooltip from 'react-tooltip'
 import "./Skills.scss"
 import { client, urlFor } from '../../client'
-import { AppWrap } from '../../wrapper'
+import { AppWrap, MotionWrap } from '../../wrapper'
 
 const Skills = () => {
   const [experiences, setExperiences] = useState([])
@@ -89,4 +89,8 @@ const Skills = () => {
   )
 }
 
-export default AppWrap(Skills, "Skills")
+export default AppWrap(
+  MotionWrap(Skills, 'app__skills'), 
+  "skills",
+  "app__whitebg"
+)
