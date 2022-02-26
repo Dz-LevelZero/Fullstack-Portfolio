@@ -1,3 +1,27 @@
+# Fullstack Portfolio 
+A fullstack portfolio built with React.js, SCSS, Framer Motion, Sanity.\
+All Thanks to [JSM](https://www.youtube.com/c/JavaScriptMastery) Youtube tutorials.
+
+## Header Section
+![Header](https://i.imgur.com/ExsZ2rZ.png)
+## About Section
+![About](https://i.imgur.com/sF7DCPP.png)
+## Works Section
+![Works](https://i.imgur.com/4tettJ4.png)
+## Skills Section
+![Skills](https://i.imgur.com/4hfha4g.png)
+## Testimonials Section
+![Testimonials](https://imgur.com/00AyYRq.png)
+## Footer Section
+![Footer](https://imgur.com/EYOfxAI.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
