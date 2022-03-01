@@ -1,4 +1,4 @@
-# Fullstack Portfolio Model
+# JSM Fullstack Portfolio 
 A fullstack portfolio built with React.js, SCSS, Framer Motion, Sanity.\
 All Thanks to [JSM](https://www.youtube.com/c/JavaScriptMastery) Youtube tutorials.
 
